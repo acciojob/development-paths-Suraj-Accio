@@ -1,4 +1,4 @@
 {
-    "testRepo": "development-pahts-solution",
+    "testRepo": "development-paths-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
